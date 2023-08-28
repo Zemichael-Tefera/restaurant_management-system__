@@ -1,2 +1,2 @@
-# restaurant_management-system__
-this is a full projects we work in sammer camp cybersecurity semmer camp 
+# restaurant_management-system
+restaurant managements by PHP
